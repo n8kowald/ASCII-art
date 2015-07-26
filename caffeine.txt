@@ -1,0 +1,19 @@
+
+  C*A*F*F*E*I*N*E
+       Molecule
+ Out for a Morning Jog
+
+          /==N
+         /   |
+   CH---N    |
+     3   \   |
+          \==|
+          /  \
+         /    \
+     O==<      N--CH
+         \    /     3
+          N--<
+         /   \\
+        /     \\
+      CH       O        -- Jittlov
+        3
